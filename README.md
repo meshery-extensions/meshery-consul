@@ -6,15 +6,15 @@
 
 # Meshery Adapter for Consul
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/layer5/meshery-consul.svg)](https://hub.docker.com/r/layer5/meshery-consul)
-[![Go Report Card](https://goreportcard.com/badge/github.com/layer5io/meshery-consul)](https://goreportcard.com/report/github.com/layer5io/meshery-consul)
-[![Build Status](https://github.com/layer5io/meshery-consul/workflows/Meshery%20Consul/badge.svg)](https://github.com/layer5io/meshery-consul/actions)
-[![GitHub](https://img.shields.io/github/license/layer5io/meshery-consul.svg)](https://opensource.org/licenses/Apache-2.0)
-[![GitHub issues by-label](https://img.shields.io/github/issues/layer5io/meshery-consul/help%20wanted.svg)](https://github.com/layer5io/meshery-consul/issues?q=is%3Aopen+is%3Aissue+label%3A"help+wanted")
-[![Website](https://img.shields.io/website/https/layer5.io/meshery.svg)](https://meshery.io/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/meshery/meshery-consul.svg)](https://hub.docker.com/r/meshery/meshery-consul)
+[![Go Report Card](https://goreportcard.com/badge/github.com/meshery/meshery-consul)](https://goreportcard.com/report/github.com/meshery/meshery-consul)
+[![Build Status](https://github.com/meshery/meshery-consul/workflows/Meshery%20Consul/badge.svg)](https://github.com/meshery/meshery-consul/actions)
+[![GitHub](https://img.shields.io/github/license/meshery/meshery-consul.svg)](https://opensource.org/licenses/Apache-2.0)
+[![GitHub issues by-label](https://img.shields.io/github/issues/meshery/meshery-consul/help%20wanted.svg)](https://github.com/meshery/meshery-consul/issues?q=is%3Aopen+is%3Aissue+label%3A"help+wanted")
+[![Website](https://img.shields.io/website/https/meshery.io/meshery.svg)](https://meshery.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mesheryio.svg?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=mesheryio)
 [![Discuss Users](https://img.shields.io/discourse/users?server=https%3A%2F%2Fdiscuss.layer5.io)](https://meshery.io/community#discussion-forums)
-[![Slack](https://img.shields.io/badge/Slack-@layer5.svg?logo=slack)](https://slack.meshery.io/)
+[![Youtube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mesheryio)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3564/badge)](https://bestpractices.coreinfrastructure.org/projects/3564)
 
 <p style="clear:both;">
@@ -30,9 +30,9 @@ As a self-service engineering platform, <a href="https://meshery.io">Meshery</a>
 <h2><a name="contributing"></a><a name="community"></a> <a href="https://slack.meshery.io">Community</a> and <a href="https://docs.meshery.io/project/contributing">Contributing</a></h2>
 Our projects are community-built and welcome collaboration. 👍 Be sure to see the <a href="https://layer5.io/community/newcomers">Contributor Journey Map</a> for a tour of resources available to you and jump into our <a href="https://slack.meshery.io">Slack</a>! Contributors are expected to adhere to the <a href="https://github.com/cncf/foundation/blob/master/code-of-conduct.md">CNCF Code of Conduct</a>.
 
-<a href="https://slack.meshery.io"><img alt="Layer5 Slack" src="/.github/img/readme/slack-128.png" style="margin-left:10px;padding-top:5px;" width="110px" align="right" /></a>
+<a href="https://slack.meshery.io"><img alt="Meshery Slack" src="/.github/img/readme/slack-128.png" style="margin-left:10px;padding-top:5px;" width="110px" align="right" /></a>
 
-<a href="https://meshery.io/community"><img alt="Layer5 Community" src="/.github/img/readme/community.svg" style="margin-right:8px;padding-top:5px;" width="140px" align="left" /></a>
+<a href="https://meshery.io/community"><img alt="Meshery Community" src="/.github/img/readme/community.svg" style="margin-right:8px;padding-top:5px;" width="140px" align="left" /></a>
 
 <p>
 ✔️ <em><strong>Join</strong></em> any or all of the weekly meetings on the <a href="https://meshery.io/calendar">community calendar</a>.<br />
@@ -41,7 +41,7 @@ Our projects are community-built and welcome collaboration. 👍 Be sure to see 
 ✔️ <em><strong>Discuss</strong></em> in the <a href="https://meshery.io/community#discussion-forums">Community Forum</a>.<br />
 </p>
 <p align="center">
-<i>Not sure where to start?</i> Grab an open issue with the <a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Alayer5io+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+org%3Alayer5labs+label%3A%22help+wanted%22+">help-wanted label</a>.
+<i>Not sure where to start?</i> Grab an open issue with the <a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Ameshery+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+org%3Alayer5labs+label%3A%22help+wanted%22+">help-wanted label</a>.
 </p>
 
 **License**
