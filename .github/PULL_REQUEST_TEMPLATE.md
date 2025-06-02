@@ -9,7 +9,7 @@ This PR fixes #
 - [ ] Yes, I signed my commits.
 
 <!--
-Thank you for contributing to Layer5 projects!
+Thank you for contributing to Meshery projects!
 
 Contributing Conventions:
 
