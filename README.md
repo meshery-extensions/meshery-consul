@@ -10,7 +10,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/meshery/meshery-consul)](https://goreportcard.com/report/github.com/meshery/meshery-consul)
 [![Build Status](https://github.com/meshery/meshery-consul/workflows/Meshery%20Consul/badge.svg)](https://github.com/meshery/meshery-consul/actions)
 [![GitHub](https://img.shields.io/github/license/meshery/meshery-consul.svg)](https://opensource.org/licenses/Apache-2.0)
-[![GitHub issues by-label](https://img.shields.io/github/issues/meshery/meshery-consul/help%20wanted.svg)](https://github.com/meshery/meshery-consul/issues?q=is%3Aopen+is%3Aissue+label%3A"help+wanted")
+[![GitHub issues by-label](https://img.shields.io/github/issues/meshery/meshery-consul/help%20wanted.svg)](https://github.com/issues?q=is%3Aopen%20is%3Aissue%20archived%3Afalse%20(org%3Ameshery%20OR%20org%3Aservice-mesh-performance%20OR%20org%3Aservice-mesh-patterns%20OR%20org%3Ameshery-extensions)%20label%3A%22help%20wanted%22)
 [![Website](https://img.shields.io/website/https/meshery.io/meshery.svg)](https://meshery.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mesheryio.svg?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=mesheryio)
 [![Discuss Users](https://img.shields.io/discourse/users?server=https%3A%2F%2Fdiscuss.layer5.io)](https://meshery.io/community#discussion-forums)
@@ -41,7 +41,7 @@ Our projects are community-built and welcome collaboration. 👍 Be sure to see 
 ✔️ <em><strong>Discuss</strong></em> in the <a href="https://meshery.io/community#discussion-forums">Community Forum</a>.<br />
 </p>
 <p align="center">
-<i>Not sure where to start?</i> Grab an open issue with the <a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+org%3Alayer5labs+label%3A%22help+wanted%22+">help-wanted label</a>.
+<i>Not sure where to start?</i> Grab an open issue with the <a href="https://github.com/issues?q=is%3Aopen%20is%3Aissue%20archived%3Afalse%20(org%3Ameshery%20OR%20org%3Aservice-mesh-performance%20OR%20org%3Aservice-mesh-patterns%20OR%20org%3Ameshery-extensions)%20label%3A%22help%20wanted%22">help-wanted label</a>.
 </p>
 
 **License**
