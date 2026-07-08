@@ -80,7 +80,8 @@ jobs:
       - uses: actions/checkout@master
         with:
           repository: meshery/meshery 
-          token: ${{ secrets.GH_ACCESS_TOKEN }}   
+          token: ${{ secrets.GH_ACCESS_TOKEN }}
+          ref: master   
       - name: DownloadJSON
         uses: actions/download-artifact@master
         with:
@@ -123,5 +124,5 @@ jobs:
           commit_user_email: ci@layer5.io
           commit_author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
           commit_options: '--signoff'
-          commit_message: '[Docs] Test status of adapter'  
-          
+          commit_message: '[Docs] Test status of adapter' 
+          branch: master
