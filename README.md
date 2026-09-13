@@ -27,6 +27,29 @@ As a self-service engineering platform, <a href="https://meshery.io">Meshery</a>
 <br /><br /><p align="center"><i>If you’re using Meshery or if you like the project, please <a href="https://github.com/meshery/meshery/stargazers">★</a> star this repository to show your support! 🤩</i></p>
 </p>
 
+<h2>Overview</h2>
+
+<p>
+The Meshery Adapter for Consul integrates Consul with Meshery, enabling Meshery to manage and operate Consul deployments through its adapter architecture.
+</p>
+
+<p>
+The adapter provides:
+</p>
+
+<ul>
+<li>Lifecycle management of Consul</li>
+<li>Lifecycle management of sample applications</li>
+<li>Performance management of Consul and its workloads, including Prometheus and Grafana integration</li>
+<li>Configuration management and best practices of Consul</li>
+<li>Custom configuration</li>
+</ul>
+
+<p>
+For more information about the adapter and its capabilities, see the <a href="https://docs.meshery.io/extensions/adapters/consul/">Meshery Adapter for Consul documentation</a>.
+</p>
+
+
 <p style="clear:both;">
 <h2><a name="contributing"></a><a name="community"></a> <a href="https://slack.meshery.io">Community</a> and <a href="https://docs.meshery.io/project/contributing">Contributing</a></h2>
 Our projects are community-built and welcome collaboration. 👍 Be sure to see the <a href="https://meshery.io/community/newcomers">Contributor Journey Map</a> for a tour of resources available to you and jump into our <a href="https://slack.meshery.io">Slack</a>! Contributors are expected to adhere to the <a href="https://github.com/cncf/foundation/blob/master/code-of-conduct.md">CNCF Code of Conduct</a>.
